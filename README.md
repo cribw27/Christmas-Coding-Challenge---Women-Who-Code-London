@@ -10,3 +10,6 @@ This is a competition run by Women Who Code London to participate in at least on
 4. After 25th of December share link to your repository in WWCode London Slack channel #christmas-coding-challenge
 
 https://www.meetup.com/Women-Who-Code-London/events/289929952/comments/524963087/?read=1&_xtd=gatlbWFpbF9jbGlja9oAJDk2MTQ1MWY1LTI0ZjgtNGI0Ny04ZjYxLTIzNjg1ODE2MDUxYQ%253D%253D&_af=event&_af_eid=289929952&itemTypeToken=COMMENT
+
+https://www.hackerrank.com/domains/algorithms
+https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges
