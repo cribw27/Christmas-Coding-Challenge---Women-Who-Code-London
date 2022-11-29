@@ -13,3 +13,4 @@ https://www.meetup.com/Women-Who-Code-London/events/289929952/comments/524963087
 
 https://www.hackerrank.com/domains/algorithms
 https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges
+https://www.kaggle.com/learn
